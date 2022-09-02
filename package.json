@@ -1,7 +1,7 @@
 {
   "name": "edt-ind",
   "version": "0.1.0",
-  "homepage": "Toskyll.github.io",
+  "homepage": "https://Toskyll.github.io/edt-ind",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
