@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/edt-ind/static/css/main.073c9b0a.css",
+    "main.js": "/edt-ind/static/js/main.7166490f.js",
+    "static/js/787.d8fa2696.chunk.js": "/edt-ind/static/js/787.d8fa2696.chunk.js",
+    "static/media/logo.svg": "/edt-ind/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/edt-ind/index.html",
+    "main.073c9b0a.css.map": "/edt-ind/static/css/main.073c9b0a.css.map",
+    "main.7166490f.js.map": "/edt-ind/static/js/main.7166490f.js.map",
+    "787.d8fa2696.chunk.js.map": "/edt-ind/static/js/787.d8fa2696.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.7166490f.js"
+  ]
+}
