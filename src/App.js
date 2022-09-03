@@ -20,8 +20,8 @@ function App() {
       <script src="app.js"></script>
       <footer>
         <p style="font-size: 18px;">
-          &copy; Copyrights reserved 2022-2023 <br>
-            Contacts : <a href="mailto:jans.guillope@indpeda.fr">jans.guillope@indpeda.fr</a>
+          &copy; Copyrights reserved 2022-2023 <br />
+          Contacts : <a href="mailto:jans.guillope@indpeda.fr">jans.guillope@indpeda.fr</a>
         </p>
       </footer>
     </div>
