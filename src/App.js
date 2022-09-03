@@ -17,13 +17,14 @@ function App() {
           <li id="T6" onclick="showTT(this.id)">-T6-</li>
         </ul>
       </div>
-      <script src="app.js"></script>
+
       <footer>
         <p style="font-size: 18px;">
           &copy; Copyrights reserved 2022-2023 <br />
           Contacts : <a href="mailto:jans.guillope@indpeda.fr">jans.guillope@indpeda.fr</a>
         </p>
       </footer>
+      <script src="app.js"></script>
     </div>
   );
 }
