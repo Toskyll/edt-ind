@@ -24,7 +24,6 @@ function App() {
           Contacts : <a href="mailto:jans.guillope@indpeda.fr">jans.guillope@indpeda.fr</a>
         </p>
       </footer>
-      <script src="app.js"></script>
     </div>
   );
 }
